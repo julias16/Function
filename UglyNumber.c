@@ -1,3 +1,5 @@
+// Write a C program to determine Nth Ugly Number using function
+
 #include<stdio.h>
 int ugly(int i)
 {
